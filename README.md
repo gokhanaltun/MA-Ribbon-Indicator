@@ -2,6 +2,10 @@
 
  MA-Ribbon Indicator For TradingView
 
+  ### Warning Note:
+ It is not for generating buy-sell signals. Gives an idea of ​​the trend direction.
+ Making a trading decision with this indicator alone can have negative consequences!
+
 ### Screenshot
 
  <img alt="MA-Ribbon" src="MA-Ribbon.png"> </img>
